@@ -7,9 +7,6 @@ O ColectExpress é uma solução prática e eficiente para gerenciar o aluguel d
 
 ## Visite o Site
 
-Você pode visualizar o projeto em funcionamento [aqui](https://henriquenery1.github.io/QuickBuy/login/login.html).
-
-**Login para testes:** Usuário: quickbuy, Senha: 1234
 
 ## Funcionalidades Principais
 
